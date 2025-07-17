@@ -62,6 +62,6 @@ library.txt must be in the same directory as the executable
 
 The file is plain text and should not be edited manually
 
-📄 License
+License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it. See the LICENSE file for more details.# librarymanagement
