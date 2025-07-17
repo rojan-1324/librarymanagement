@@ -57,7 +57,8 @@ Edit
 ├── library.c         # Main source code
 ├── library.txt       # Auto-created data file for storing books
 ├── README.md         # Project documentation
-⚠ Notes
+
+Notes
 library.txt must be in the same directory as the executable
 
 The file is plain text and should not be edited manually
