@@ -1,4 +1,4 @@
-ibrary Management System in C
+Library Management System in C
 A basic command-line Library Management System written in C, using file handling to manage book records. This system allows users to:
 
 Add new books
